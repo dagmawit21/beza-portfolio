@@ -1,7 +1,7 @@
 /* General Styles */
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #f0f8ff;
+    background-color: #384959;
     color: #333;
     margin: 0;
     padding: 0;
@@ -113,7 +113,7 @@ nav a:hover {
 .social-links a {
     font-size: 1.5em;
     margin: 0 15px;
-    color: white;
+    color: black;
     text-decoration: none;
     transition: color 0.3s ease;
 }
